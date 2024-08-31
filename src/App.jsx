@@ -1,6 +1,6 @@
 import "./App.css";
-// import "bootstrap/dist/css/bootstrap.min.css";
-import ClockHeading from "./components/clockHeading";
+
+import ClockHeading from "./components/ClockHeading";
 import ClockDescription from "./components/ClockDescription";
 import CurrentTime from "./components/CurrentTime";
 
