@@ -1,5 +1,3 @@
-# INDIAN CLOCK
-
-this is created using React JS with useState and useEffect hooks and styling done through some vanilla css...
-
+#Indian CLock
+THis is Created Using React.Js using useState and useEffect hook..
 DEMO:https://kashifwamik.github.io/indian-clock/
